@@ -38,8 +38,8 @@ const About = () => {
           variants={containerVariants}
           initial="hidden"
           whileInView="visible"
-          viewport={{ once: true, amount: 0.3 }}
-        >
+          viewport={{ once: true, amount: 0 }}
+          >
           <motion.h2 
             className="text-4xl md:text-5xl font-bold text-center mb-16"
             variants={itemVariants}
