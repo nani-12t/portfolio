@@ -305,15 +305,15 @@ const About = () => {
                     <h4 className="text-lg font-semibold mb-4 text-white">Skills Development</h4>
                     <div className="space-y-4">
                       <div>
-                        <div className="flex justify-between mb-1"><span className="text-white">Network Architecture</span><span className="text-green-400 font-bold">95% <span className="text-xs">+25%</span></span></div>
+                        <div className="flex justify-between mb-1"><span className="text-white">Software Architecture</span><span className="text-green-400 font-bold">95% <span className="text-xs">+25%</span></span></div>
                         <div className="h-2 bg-gray-700 rounded-full"><div className="h-2 bg-green-400 rounded-full" style={{ width: '95%' }}></div></div>
                       </div>
                       <div>
-                        <div className="flex justify-between mb-1"><span className="text-white">Protocol Design</span><span className="text-green-400 font-bold">92% <span className="text-xs">+30%</span></span></div>
+                        <div className="flex justify-between mb-1"><span className="text-white">Algorithm & Data Structures</span><span className="text-green-400 font-bold">92% <span className="text-xs">+30%</span></span></div>
                         <div className="h-2 bg-gray-700 rounded-full"><div className="h-2 bg-green-400 rounded-full" style={{ width: '92%' }}></div></div>
                       </div>
                       <div>
-                        <div className="flex justify-between mb-1"><span className="text-white">Embedded Systems</span><span className="text-green-400 font-bold">88% <span className="text-xs">+40%</span></span></div>
+                        <div className="flex justify-between mb-1"><span className="text-white">Application Development</span><span className="text-green-400 font-bold">88% <span className="text-xs">+40%</span></span></div>
                         <div className="h-2 bg-gray-700 rounded-full"><div className="h-2 bg-green-400 rounded-full" style={{ width: '88%' }}></div></div>
                       </div>
                       <div>
